@@ -4,7 +4,8 @@
 >If you want me to add a tool (websites, apps, etc...) to this list feel free to join the [exebios community server !](https://discord.gg/2bgJPXpNq7)
 ## Tools
 >[!Warning]
->Try to download the following apps usigne [Ninite](https://ninite.com/)
+>Try to download the following apps using [Ninite](https://ninite.com/)
+>
 >It's saffer !
 1) [Recuva](http://www.recuva.fr/)
 2) [Nmap](https://nmap.org/)
