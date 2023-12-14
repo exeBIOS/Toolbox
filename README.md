@@ -6,7 +6,7 @@
 >[!Warning]
 >Try to download the following apps using [Ninite](https://ninite.com/)
 >
->It's saffer !
+>It's safer !
 1) [Recuva](http://www.recuva.fr/)
 2) [Nmap](https://nmap.org/)
 3) [Space Sniffer](https://spacesniffer.fr.softonic.com/)
