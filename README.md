@@ -18,4 +18,5 @@
 9) [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
 10) [YogaDNS](https://www.yogadns.com/)
 11) [NetCat](https://eternallybored.org/misc/netcat/)
+12) [Grafana Labs](https://grafana.com/)
 
