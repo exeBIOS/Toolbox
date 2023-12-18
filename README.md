@@ -7,20 +7,29 @@
 >Try to download the following apps using [Ninite](https://ninite.com/)
 >
 >It's safer !
-1) [Recuva](http://www.recuva.fr/)
-2) [Nmap](https://nmap.org/)
-3) [Space Sniffer](https://spacesniffer.fr.softonic.com/)
-4) [CCleaner](https://www.ccleaner.com/fr-fr)
-5) [Wireshark](https://www.wireshark.org/download.html)
-6) [Keepass](https://keepass.info/)
-7) [Thunderbird](https://www.thunderbird.net/fr/)
-8) [PuTTy](https://www.putty.org/)
-9) [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
-10) [YogaDNS](https://www.yogadns.com/)
-11) [NetCat](https://eternallybored.org/misc/netcat/)
-12) [Grafana Labs](https://grafana.com/)
-13) [Snort](https://snort.org/)
-14) [Mobaxterm](https://mobaxterm.mobatek.net/)
-15) [Trend Micro](https://www.trendmicro.com/fr_fr/business.html)
-16) [Autoruns](https://live.sysinternals.com/Autoruns.exe)
+
+## DNS Tools
+[YogaDNS](https://www.yogadns.com/)
+## Email Client
+[Thunderbird](https://www.thunderbird.net/fr/)
+## Monitoring and Visualization
+[Grafana Labs](https://grafana.com/)
+## Network Tools
+[NetCat](https://eternallybored.org/misc/netcat/)
+[Nmap](https://nmap.org/)
+[Wireshark](https://www.wireshark.org/download.html)
+## Password Management
+[Keepass](https://keepass.info/)
+## Remote Access/SSH
+[Mobaxterm](https://mobaxterm.mobatek.net/)
+[PuTTy](https://www.putty.org/)
+## Security Tools
+[Snort](https://snort.org/)
+[Trend Micro](https://www.trendmicro.com/fr_fr/business.html)
+## System Utilities
+[Autoruns](https://live.sysinternals.com/Autoruns.exe)
+[CCleaner](https://www.ccleaner.com/fr-fr)
+[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
+[Recuva](http://www.recuva.fr/)
+[Space Sniffer](https://spacesniffer.fr.softonic.com/)
 
