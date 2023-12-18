@@ -21,5 +21,5 @@
 12) [Grafana Labs](https://grafana.com/)
 13) [Snort](https://snort.org/)
 14) [Mobaxterm](https://mobaxterm.mobatek.net/)
-15) [Trend Micro](https://docs.trendmicro.com/en-us/documentation/)
+15) [Trend Micro](https://www.trendmicro.com/fr_fr/business.html)
 
