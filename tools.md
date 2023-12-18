@@ -14,14 +14,14 @@
 - IPv4: The fourth version of the Internet Protocol, using 32-bit addresses.
 - IPv6: The sixth version of the Internet Protocol, using 128-bit addresses.
 ## OSI LAYER 4 - Transport Layer
-# TCP (Transmission Control Protocol):
+### TCP (Transmission Control Protocol):
 - Port 80 - HTTP: Used for web traffic.
 - Port 443 - HTTPS: Secured version of HTTP.
 - Port 21 - FTP (File Transfer Protocol): Used for file transfers.
 - Port 25 - SMTP (Simple Mail Transfer Protocol): Used for email transmission.
 - Port 110 - POP3 (Post Office Protocol version 3): Retrieves emails from a server.
 - Port 143 - IMAP (Internet Message Access Protocol): Manages and retrieves email messages.
-# UDP (User Datagram Protocol):
+### UDP (User Datagram Protocol):
 - Port 53 - DNS (Domain Name System): Resolves domain names to IP addresses.
 - Port 67/68 - DHCP (Dynamic Host Configuration Protocol): Assigns IP addresses dynamically.
 - Port 161/162 - SNMP (Simple Network Management Protocol): Monitors and manages network devices.
