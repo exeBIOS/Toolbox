@@ -9,27 +9,27 @@
 >It's safer !
 
 ## DNS Tools
-[YogaDNS](https://www.yogadns.com/)
+- [YogaDNS](https://www.yogadns.com/)
 ## Email Client
-[Thunderbird](https://www.thunderbird.net/fr/)
+- [Thunderbird](https://www.thunderbird.net/fr/)
 ## Monitoring and Visualization
-[Grafana Labs](https://grafana.com/)
+- [Grafana Labs](https://grafana.com/)
 ## Network Tools
-[NetCat](https://eternallybored.org/misc/netcat/)
-[Nmap](https://nmap.org/)
-[Wireshark](https://www.wireshark.org/download.html)
+- [NetCat](https://eternallybored.org/misc/netcat/)
+- [Nmap](https://nmap.org/)
+- [Wireshark](https://www.wireshark.org/download.html)
 ## Password Management
-[Keepass](https://keepass.info/)
+- [Keepass](https://keepass.info/)
 ## Remote Access/SSH
-[Mobaxterm](https://mobaxterm.mobatek.net/)
-[PuTTy](https://www.putty.org/)
+- [Mobaxterm](https://mobaxterm.mobatek.net/)
+- [PuTTy](https://www.putty.org/)
 ## Security Tools
-[Snort](https://snort.org/)
-[Trend Micro](https://www.trendmicro.com/fr_fr/business.html)
+- [Snort](https://snort.org/)
+- [Trend Micro](https://www.trendmicro.com/fr_fr/business.html)
 ## System Utilities
-[Autoruns](https://live.sysinternals.com/Autoruns.exe)
-[CCleaner](https://www.ccleaner.com/fr-fr)
-[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
-[Recuva](http://www.recuva.fr/)
-[Space Sniffer](https://spacesniffer.fr.softonic.com/)
+- [Autoruns](https://live.sysinternals.com/Autoruns.exe)
+- [CCleaner](https://www.ccleaner.com/fr-fr)
+- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
+- [Recuva](http://www.recuva.fr/)
+- [Space Sniffer](https://spacesniffer.fr.softonic.com/)
 
