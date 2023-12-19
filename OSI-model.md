@@ -1,7 +1,7 @@
-# Ports/Protocols
+# OSI-model
 ## Description
 >[!important]
->This liste is organized using the [OSI model](https://en.wikipedia.org/wiki/OSI_model).
+>This liste of Ports/Protocols is organized using the [OSI model](https://en.wikipedia.org/wiki/OSI_model).
 ## OSI LAYER 1 - Physical Layer
 - **Copper Cables** Ethernet cables that transfer electricity pulses to transfer messages.
 - **Optical Fiber** Glass tube equiped with LED/LASER technologie to transfer light signals
