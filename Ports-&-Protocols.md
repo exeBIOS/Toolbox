@@ -26,8 +26,8 @@
 - Port 67/68 - DHCP (Dynamic Host Configuration Protocol): Assigns IP addresses dynamically.
 - Port 161/162 - SNMP (Simple Network Management Protocol): Monitors and manages network devices.
 - Port 514 - Syslog: Event logging on a network.
-### TCP & UDP
-- Port 414 - InfoSeek: Infoseek was a web search engine that gained popularity in the mid-1990s, providing users with the ability to search and retrieve information from the World Wide Web.
+### TCP & UDP:
+- Port 414 - InfoSeek: Infoseek was a web search engine that gained popularity in the mid-1990s.
 ## OSI LAYER 5 - Session Layer
 - NetBIOS (Network Basic Input/Output System): Manages sessions and provides session establishment, maintenance, and termination functions.
 ## OSI LAYER 6 - Presentation Layer
