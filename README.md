@@ -1,4 +1,4 @@
-# Linux
+# Toolbox
 ## Description
 > [!note]
 > In this repository, you will find different tools/websites and other useful tips I came across during my Networking/Cybersecurity journey.
