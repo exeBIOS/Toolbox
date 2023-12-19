@@ -5,7 +5,7 @@
 >[!Warning]
 >Try to download the following apps using [Ninite](https://ninite.com/)
 >
->It's safer !
+>It's safer 🔐
 
 ## DNS Tools
 - [YogaDNS](https://www.yogadns.com/)
