@@ -10,7 +10,7 @@
 ## DNS Tools
 - [YogaDNS](https://www.yogadns.com/)
 ## Email Client
-- [Thunderbird](https://www.thunderbird.net/en/)
+- [Thunderbird](https://www.thunderbird.net/en-US/)
 ## Github Tools
 - [Gitbook](https://www.gitbook.com/)
 ## Monitoring and Visualization
