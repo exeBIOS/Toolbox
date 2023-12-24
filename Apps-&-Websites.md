@@ -8,32 +8,32 @@
 >It's safer 🔐
 
 ## DNS Tools
-- [YogaDNS](https://www.yogadns.com/)
+- [YogaDNS](https://www.yogadns.com/) *YogaDNS enhances DNS management*
 ## Email Client
-- [Thunderbird](https://www.thunderbird.net/en-US/)
+- [Thunderbird](https://www.thunderbird.net/en-US/) *Thunderbird is an email client*
 ## Github Tools
-- [Gitbook](https://www.gitbook.com/)
+- [Gitbook](https://www.gitbook.com/) *Gitbook aids in GitHub documentation*
 ## Monitoring and Visualization
-- [Grafana Labs](https://grafana.com/)
-- [Atera](https://www.atera.com/)
-- [Zabbix](https://www.zabbix.com/)
+- [Grafana Labs](https://grafana.com/) *Monitoring and visualization platform*
+- [Atera](https://www.atera.com/) *All-in-one IT monitoring and management*
+- [Zabbix](https://www.zabbix.com/) *Enterprise-class monitoring solution*
 ## Network Tools
-- [NetCat](https://eternallybored.org/misc/netcat/)
-- [Nmap](https://nmap.org/)
-- [Wireshark](https://www.wireshark.org/download.html)
+- [NetCat](https://eternallybored.org/misc/netcat/) *Networking utility for reading/writing across network connections*
+- [Nmap](https://nmap.org/) *Network discovery and security auditing tool*
+- [Wireshark](https://www.wireshark.org/download.html) *Network protocol analyzer*
 ## Password Management
-- [Keepass](https://keepass.info/)
+- [Keepass](https://keepass.info/) *Password manager*
 ## Remote Access/SSH
-- [Mobaxterm](https://mobaxterm.mobatek.net/)
-- [PuTTy](https://www.putty.org/)
-- [RustDesk](https://rustdesk.com/)
-- [AnyDesk](https://anydesk.com/en)
+- [Mobaxterm](https://mobaxterm.mobatek.net/) *Enhanced terminal with X server and tabbed SSH client*
+- [PuTTy](https://www.putty.org/) *SSH and telnet client*
+- [RustDesk](https://rustdesk.com/) *Remote desktop software*
+- [AnyDesk](https://anydesk.com/en) *Remote access and support software*
 ## Security Tools
-- [Snort](https://snort.org/)
-- [Trend Micro](https://www.trendmicro.com/en_en/business.html)
+- [Snort](https://snort.org/) *Network intrusion detection system*
+- [Trend Micro](https://www.trendmicro.com/en_en/business.html) *Cybersecurity solutions provider*
 ## System Utilities
-- [Autoruns](https://live.sysinternals.com/Autoruns.exe)
-- [CCleaner](https://www.ccleaner.com/)
-- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
-- [Recuva](http://www.recuva.fr/)
-- [Space Sniffer](https://spacesniffer.fr.softonic.com/)
+- [Autoruns](https://live.sysinternals.com/Autoruns.exe) *Advanced tool for Windows startup processes*
+- [CCleaner](https://www.ccleaner.com/) *System optimization and cleaning tool*
+- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) *Hardware information tool*
+- [Recuva](http://www.recuva.fr/) *File recovery tool*
+- [Space Sniffer](https://spacesniffer.fr.softonic.com/) *Disk space usage analyzer*
