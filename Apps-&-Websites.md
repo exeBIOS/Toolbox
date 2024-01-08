@@ -27,7 +27,7 @@
 ## Password Management
 - [Keepass](https://keepass.info/) *Password manager*
 ## Remote Access/SSH
-- [Mobaxterm](https://mobaxterm.mobatek.net/) *Enhanced terminal with X server and tabbed SSH client*
+- [MobaXterm](https://mobaxterm.mobatek.net/) *Enhanced terminal with X server and tabbed SSH client*
 - [PuTTy](https://www.putty.org/) *SSH and telnet client*
 - [RustDesk](https://rustdesk.com/) *Remote desktop software*
 - [AnyDesk](https://anydesk.com/en) *Remote access and support software*
