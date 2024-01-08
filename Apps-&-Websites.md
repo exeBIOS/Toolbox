@@ -20,6 +20,7 @@
 - [NinjaOne](https://www.ninjaone.com/)
 - [Fusion Inventory](https://fusioninventory.org/)
 - [GLPI](https://glpi-project.org/)
+- [Zoho]()
 ## Network Tools
 - [NetCat](https://eternallybored.org/misc/netcat/) *Networking utility for reading/writing across network connections*
 - [Nmap](https://nmap.org/) *Network discovery and security auditing tool*
