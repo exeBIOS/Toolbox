@@ -1,6 +1,6 @@
 # Apps and Websites
 >[!important]
->If you want me to add a tool (websites, apps, etc...) to this list feel free to join the [exebios community server !](https://discord.gg/2bgJPXpNq7)
+>This document is sorted alphabetically ! 
 ## Tools
 >[!Warning]
 >Try to download the following apps using [Ninite](https://ninite.com/)
