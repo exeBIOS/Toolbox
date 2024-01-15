@@ -39,5 +39,6 @@
 - [Autoruns](https://live.sysinternals.com/Autoruns.exe) *Advanced tool for Windows startup processes*
 - [CCleaner](https://www.ccleaner.com/) *System optimization and cleaning tool*
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) *Hardware information tool*
+- [CrystalDiskInfo](https://crystaldiskinfo.en.uptodown.com/windows) *Get information about a disk*
 - [Recuva](http://www.recuva.fr/) *File recovery tool*
 - [Space Sniffer](https://spacesniffer.fr.softonic.com/) *Disk space usage analyzer*
