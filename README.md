@@ -3,7 +3,7 @@
 > [!note]
 > In this repository, you will find different tools/websites and other useful tips I came across during my Networking/Cybersecurity journey.
 ## Procedures
-「🧠」[OSI-model](https://github.com/exeBIOS/Toolbox/blob/main/OSI-model.md)
+「🧠」[OSI-model](OSI-model.md)
 
 「🔧」[Websites&Apps](Apps-&-Websites.md)
 
