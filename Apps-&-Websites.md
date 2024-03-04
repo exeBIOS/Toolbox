@@ -33,6 +33,7 @@
 - [PuTTy](https://www.putty.org/) *SSH and telnet client*
 - [RustDesk](https://rustdesk.com/) *Remote desktop software*
 - [AnyDesk](https://anydesk.com/en) *Remote access and support software*
+- [Team Viewer](https://www.teamviewer.com/en/download/windows/)
 ## Security Tools
 - [Snort](https://snort.org/) *Network intrusion detection system*
 - [Trend Micro](https://www.trendmicro.com/en_en/business.html) *Cybersecurity solutions provider*
