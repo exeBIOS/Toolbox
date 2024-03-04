@@ -16,5 +16,5 @@
 - [Apple](https://www.apple.com/mac/) *Great for developping ios apps. Great ecosystem with other apple devices.*
 ### Custom OS based
 - [MNT Research](https://mntre.com/) *Fully customizable computer*
-- [Framework](https://frame.work/us) *Light customizable lamptop*
+- [Framework](https://frame.work/us) *Light customizable laptop*
 - [System76](https://system76.com/) *Custom OS*
