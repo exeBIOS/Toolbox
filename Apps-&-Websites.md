@@ -2,7 +2,7 @@
 >[!important]
 >This document is sorted alphabetically ! 
 ## Tools
->[!Warning]
+>[!Caution]
 >Try to download the following apps using [Ninite](https://ninite.com/)
 >
 >It's safer 🔐
