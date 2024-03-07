@@ -13,6 +13,7 @@
 - [Thunderbird](https://www.thunderbird.net/en-US/) *Thunderbird is an email client*
 ## Github Tools
 - [Gitbook](https://www.gitbook.com/) *Gitbook aids in GitHub documentation*
+- [Markdown](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) *Markdown is a syntaxe language used on github*
 ## Monitoring and Visualization
 - [Grafana Labs](https://grafana.com/) *Monitoring and visualization platform*
 - [Atera](https://www.atera.com/) *All-in-one IT monitoring and management*
