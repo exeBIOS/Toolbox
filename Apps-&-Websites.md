@@ -1,6 +1,6 @@
 # Apps and Websites
 >[!important]
->This document is sorted alphabetically ! 
+>This document is sorted alphabetically ! To naviguate faster, you can go at the top right of this box and click on the little menu button.
 ## Tools
 >[!Caution]
 >Try to download the following apps using [Ninite](https://ninite.com/)
