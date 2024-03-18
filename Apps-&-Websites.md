@@ -45,6 +45,7 @@
 - [CrystalDiskInfo](https://crystaldiskinfo.en.uptodown.com/windows) *Get information about a disk*
 - [Recuva](http://www.recuva.fr/) *File recovery tool*
 - [Space Sniffer](https://spacesniffer.fr.softonic.com/) *Disk space usage analyzer*
+- [USBDeview](https://usbdeview.en.softonic.com/) *USB/External hard drive informations analyser*
 ## Informations
 - [OpenCTI](https://docs.opencti.io/latest/)
 ## Not classified
