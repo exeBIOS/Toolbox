@@ -7,6 +7,7 @@
 - [Netgate](https://www.netgate.com/) *Firewall equipement powered by pfSense an open source firewall OS*
 - [Dell Server](https://www.dell.com/en-us/shop/dell-poweredge-servers/sc/servers) *Rackable servers*
 - [Stormshield](https://www.stormshield.com/products-services/products/network-security/product-range-sns/) *Firewall equipement*
+- [Unifi](https://www.ui.com/introduction) *Unifi has a lot of networking gear: cameras, switches, access points, etc...*
 ## Computer Brands
 ### Windows Based
 - [Acer](https://www.acer.com/us-en)
