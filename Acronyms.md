@@ -35,6 +35,7 @@
  CPU|	Central Processing Unit
  CRT|	Cathode Ray Tube
  D/A|	Digital-to-Analog
+ DaaS| Desktop as a Service
  DAT|	Digital Audio Tape
  DBMS|	Data Base Management System
  DBS|	Demand Based Switching
@@ -81,6 +82,7 @@
  IBM	|International Business Machine
  IC	|Integrated Circuit
  IDN	|Integrated Digital Networks
+ IaaS| Infrastructure as a Service
  IP	|Internet Protocol
  IrDA|	Infrared Data Association
  ISDN	|Integrated Services Digital Network
@@ -120,8 +122,10 @@
  PDL|	Program Design Language
  PDP|	Program Data Processor
  PIP	|Peripheral Interchange Program
+ PaaS| Plateform as a Service
  PROM	|Programmable Read-Only Memory
  QoS	|Quality of Service
+ RaaS| Ransomware as a Service
  RAM	|Random Access Memory
  RAT| Remote Access Trojan
  ROM	|Read Only Memory
@@ -135,6 +139,7 @@
  SQL	|Structured Query Language
  SRAM|	Static RAM
  SSI	|Small Scale Integration
+ STaaS| STorage as a Service
  TB	|Tera Bytes
  TCP	|Transport Control Protocol
  TDM	|Time Division Multiplexing
