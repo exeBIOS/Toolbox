@@ -43,6 +43,7 @@
  DEC|	Digital Equipment Corporation
  DMA|	Direct Memory Access
  DNA|	Digital Network Architecture
+ DNS| Domain Name System
  DPI|	Dots Per Inch
  DRAM|	Dynamic RAM
  DSN	|Distributed Systems Network
