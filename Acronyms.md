@@ -118,40 +118,40 @@
  PROM	|Programmable Read-Only Memory
  QoS	|Quality of Service
  RAM	|Random Access Memory
- ROM	Read Only Memory
- SDLC	Software Development Life Cycle
- SEQUEL	Structured English QUEry Language
- SGML	Syntax for Generalized Markup Language
- SIMM	Single In-line Memory Module
- SNA	Systems Network Architecture
- SNOBOL	StriNg Oriented and symBOlic Language
- SQL	Structured Query Language
- SRAM	Static RAM
- SSI	Small Scale Integration
- TB	Tera Bytes
- TCP	Transport Control Protocol
- TDM	Time Division Multiplexing
- UDP	User Datagram Protocol
- ULSI	Ultra Large Scale Integration
- UPC	Universal Product Code
- URL	Uniform Resource Locator
- USB	Universal Serial Bus
- UTF	Unicode Transformation Format
- VAN	Value Added Network
- VCR	Video Cassette Recorder
- VDT	Video Display Terminal
- VGA	Video Graphics Array
- VOD	Video-On-Demand
- VoIP	Voice over Internet Protocol
- VSAT	Very Small Aperture Terminal
- WAN	Wide Area Network
- WAP	Wireless Application Protocol
- WiMAX	Worldwide Interoperability for Microwave Access
- WLAN	Wireless Local Area Network
- WLL	Wireless Local Loop
- WORM	Write Once Read Many
- WWW	World Wide Web
- XHTML	eXtensible HyperText Markup Language
- XML	eXtensible Markup Language
- X.400	Electronic Mail Protocol
- X.500	Directory Server Protocol
+ ROM	|Read Only Memory
+ SDLC	|Software Development Life Cycle
+ SEQUEL|	Structured English QUEry Language
+ SGML	|Syntax for Generalized Markup Language
+ SIMM	|Single In-line Memory Module
+ SNA	|Systems Network Architecture
+ SNOBOL|	StriNg Oriented and symBOlic Language
+ SQL	|Structured Query Language
+ SRAM|	Static RAM
+ SSI	|Small Scale Integration
+ TB	|Tera Bytes
+ TCP	|Transport Control Protocol
+ TDM	|Time Division Multiplexing
+ UDP|	User Datagram Protocol
+ ULSI|	Ultra Large Scale Integration
+ UPC|	Universal Product Code
+ URL	|Uniform Resource Locator
+ USB	|Universal Serial Bus
+ UTF	|Unicode Transformation Format
+ VAN	|Value Added Network
+ VCR	|Video Cassette Recorder
+ VDT	|Video Display Terminal
+ VGA|	Video Graphics Array
+ VOD	|Video-On-Demand
+ VoIP	|Voice over Internet Protocol
+ VSAT	|Very Small Aperture Terminal
+ WAN	|Wide Area Network
+ WAP	|Wireless Application Protocol
+ WiMAX|	Worldwide Interoperability for Microwave Access
+ WLAN	|Wireless Local Area Network
+ WLL	|Wireless Local Loop
+ WORM|	Write Once Read Many
+ WWW	|World Wide Web
+ XHTML|	eXtensible HyperText Markup Language
+ XML	|eXtensible Markup Language
+ X.400|	Electronic Mail Protocol
+ X.500	|Directory Server Protocol
