@@ -55,6 +55,7 @@
  EDVAC	|Electronic Discrete Variable Automatic Calculator
  EFM	|Eight-to-Fourteen Modulation
  ENIAC|	Electronic Numerical Integrator And Calculator
+ EOL| End Of Life
  EPG	|Electronic Programming Guide
  EPIC	|Explicitly Parallel Instruction Computing
  EPROM|	Erasable Programmable Read-Only Memory
