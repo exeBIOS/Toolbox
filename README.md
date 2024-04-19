@@ -9,4 +9,4 @@
 
 「💻」[Hardware](Hardware.md)
 
-「💻」[Acronyms](Acronyms.md)
+「📚」[Acronyms](Acronyms.md)
