@@ -7,4 +7,6 @@
 
 「🔧」[Websites&Apps](Apps-&-Websites.md)
 
-「💻」[Hardware](https://github.com/exeBIOS/Toolbox/blob/main/Hardware.md)
+「💻」[Hardware](Hardware.md)
+
+「💻」[Acronyms](Acronyms.md)
