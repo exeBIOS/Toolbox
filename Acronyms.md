@@ -123,7 +123,9 @@
  PROM	|Programmable Read-Only Memory
  QoS	|Quality of Service
  RAM	|Random Access Memory
+ RAT| Remote Access Trojan
  ROM	|Read Only Memory
+ SaaS| Software as a Service
  SDLC	|Software Development Life Cycle
  SEQUEL|	Structured English QUEry Language
  SGML	|Syntax for Generalized Markup Language
