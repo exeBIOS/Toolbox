@@ -1,5 +1,8 @@
 # Acronyms
 
+>[!tip]
+>Faites `ctrl` + `f` puis dans la barre tapez l'acronyme que vous recherchez.
+
 | Acronyms | Definition         |
 |----------|--------------------|
 | A/D      |	Analog-to-Digital |
