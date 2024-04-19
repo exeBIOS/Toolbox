@@ -77,6 +77,7 @@
  HSS	|Hierarchical Storage System
  HTML	|HyperText Markup Language
  HTTP	|HyperText Transport Protocol
+ HTTPS| HyperText Transport Protocol Secure
  IBM	|International Business Machine
  IC	|Integrated Circuit
  IDN	|Integrated Digital Networks
