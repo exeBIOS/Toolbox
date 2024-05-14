@@ -25,16 +25,18 @@
 
 ## Monitoring and Visualization
 
-- [Grafana Labs](https://grafana.com/) *Monitoring and visualization platform*
-- [Atera](https://www.atera.com/) *All-in-one IT monitoring and management*
-- [Zabbix](https://www.zabbix.com/) *Enterprise-class monitoring solution*
-- [NinjaOne](https://www.ninjaone.com/)
-- [Fusion Inventory](https://fusioninventory.org/)
-- [GLPI](https://glpi-project.org/)
-- [Zoho]()
-- [Service Now](https://www.servicenow.com)
-- [SCCM](https://learn.microsoft.com/en-us/mem/configmgr/core/understand/introduction) *System Center Configuration Manager*
-- [Ivanti](https://www.ivanti.com/)
+| Tools | Description |
+|:------:|:-----------|
+| [Grafana Labs](https://grafana.com/) | *Monitoring and visualization platform*
+| [Atera](https://www.atera.com/) | *All-in-one IT monitoring and management*
+| [Zabbix](https://www.zabbix.com/) | *Enterprise-class monitoring solution*
+| [NinjaOne](https://www.ninjaone.com/) |
+| [Fusion Inventory](https://fusioninventory.org/) |
+| [GLPI](https://glpi-project.org/) |
+| [Zoho]() |
+| [Service Now](https://www.servicenow.com) |
+| [SCCM](https://learn.microsoft.com/en-us/mem/configmgr/core/understand/introduction) | *System Center Configuration Manager* |
+| [Ivanti](https://www.ivanti.com/) |
 
 ## Network Tools
 
