@@ -26,7 +26,7 @@
 ## Monitoring and Visualization
 
 | Tools | Description |
-|:------:|:-----------|
+|:------|:-----------|
 | [Grafana Labs](https://grafana.com/) | *Monitoring and visualization platform*
 | [Atera](https://www.atera.com/) | *All-in-one IT monitoring and management*
 | [Zabbix](https://www.zabbix.com/) | *Enterprise-class monitoring solution*
