@@ -75,6 +75,7 @@
 |[Snort](https://snort.org/)| *Network intrusion detection system*|
 |[Trend Micro](https://www.trendmicro.com/en_en/business.html)| *Cybersecurity solutions provider*|
 |[Wallix](https://www.wallix.com/) | *Editeur de logiciels de gouvernance des accès et des identités*  |
+|[Rapid7](https://www.rapid7.com/)| *SaaS de Cybersécurité* |
 
 ## System Utilities
 
