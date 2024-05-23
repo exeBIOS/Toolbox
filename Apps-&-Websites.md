@@ -74,6 +74,7 @@
 |:------|:-----------|
 |[Snort](https://snort.org/)| *Network intrusion detection system*|
 |[Trend Micro](https://www.trendmicro.com/en_en/business.html)| *Cybersecurity solutions provider*|
+|[Wallix](https://www.wallix.com/) | *Editeur de logiciels de gouvernance des accès et des identités*  |
 
 ## System Utilities
 
@@ -92,7 +93,7 @@
 
 | Tools | Description |
 |:------|:-----------|
-|[OpenCTI](https://docs.opencti.io/latest/)|  |
+|[OpenCTI](https://docs.opencti.io/latest/)| |
 
 ## Not classified
 
