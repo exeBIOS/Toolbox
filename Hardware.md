@@ -2,12 +2,12 @@
 
 ## Pentesting
 
-- [Hak5](https://shop.hak5.org/) *Pentest equipement* 
+[Hak5](https://shop.hak5.org/) *Pentest equipement* 
 
 ## Networking
 
-- [Cisco](https://www.cisco.com/site/us/en/index.html) *Popular and largely used networking hardware*
-- [Fortniet](https://www.fortinet.com/) *Firewall equipement*
+[Cisco](https://www.cisco.com/site/us/en/index.html) *Popular and largely used networking hardware*
+[Fortniet](https://www.fortinet.com/) *Firewall equipement*
 - [Netgate](https://www.netgate.com/) *Firewall equipement powered by pfSense an open source firewall OS*
 - [Dell Server](https://www.dell.com/en-us/shop/dell-poweredge-servers/sc/servers) *Rackable servers*
 - [Stormshield](https://www.stormshield.com/products-services/products/network-security/product-range-sns/) *Firewall equipement*
