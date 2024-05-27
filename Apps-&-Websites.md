@@ -51,6 +51,8 @@
 |[NetCat](https://eternallybored.org/misc/netcat/)| *Networking utility for reading/writing across network connections*|
 |[Nmap](https://nmap.org/)| *Network discovery and security auditing tool*|
 |[Wireshark](https://www.wireshark.org/download.html)| *Network protocol analyzer*|
+|[ZScaler](https://www.zscaler.com/) | *ZScaler Internet Access proxies your Internet traffic and runs it through URL content filter lists. ZScaler Private Access puts connection brokers between your clients and servers that hide real IPs from each other and force every server connection to go through a login or SSO process.* |
+|[Cisco Anyconnect](https://www.cisco.com/c/en/us/support/security/anyconnect-secure-mobility-client-v4-x/model.html)| *VPN Manager* |
 
 ## Password Management
 
