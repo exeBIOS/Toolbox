@@ -1,7 +1,7 @@
 # Acronyms
 
 >[!tip]
->Faites `ctrl` + `F` puis dans la barre tapez l'acronyme que vous recherchez.
+>Do `ctrl` + `F` and type the acronym you are looking for in the search bar.
 
 | Acronyms | Definition         |
 |----------|--------------------|
