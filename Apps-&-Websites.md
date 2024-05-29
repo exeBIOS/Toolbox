@@ -43,6 +43,7 @@
 | [Service Now](https://www.servicenow.com) |
 | [SCCM](https://learn.microsoft.com/en-us/mem/configmgr/core/understand/introduction) | *System Center Configuration Manager* |
 | [Ivanti](https://www.ivanti.com/) |
+| [Citrix](https://www.citrix.com/)| *Citrix Virtual Apps and Desktops are virtualization solutions that give IT control of virtual machines, applications, licensing, and security while providing anywhere access for any device* |
 
 ## Network Tools
 
