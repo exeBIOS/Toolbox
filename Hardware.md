@@ -32,7 +32,7 @@
 
 |Equipement|Description|
 |---|---|
-[Apple](https://www.apple.com/mac/) *Great for developping ios apps. Great ecosystem with other apple devices.*
+[Apple](https://www.apple.com/mac/)| *Great for developping ios apps. Great ecosystem with other apple devices.*|
 
 ### Custom OS based
 
