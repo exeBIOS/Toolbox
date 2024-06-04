@@ -44,4 +44,6 @@
 
 ## Security
 
+|Equipement|Description|
+|---|---|
 |[Yubikey](https://www.yubico.com/products/yubikey-5-cspn-series/)||
