@@ -47,7 +47,7 @@
 
 ## Network Tools
 
-| Tools | Description |
+| Tools | Description |            
 |:------|:-----------|
 |[NetCat](https://eternallybored.org/misc/netcat/)| *Networking utility for reading/writing across network connections*|
 |[Nmap](https://nmap.org/)| *Network discovery and security auditing tool*|
