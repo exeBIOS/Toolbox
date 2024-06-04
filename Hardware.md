@@ -2,6 +2,8 @@
 
 ## Pentesting
 
+|Equipement|Description|
+|---|---|
 [Hak5](https://shop.hak5.org/) |*Pentest equipement* |
 
 ## Networking
@@ -19,6 +21,8 @@
 
 ### Windows Based
 
+|Equipement|Description|
+|---|---|
 |[Acer](https://www.acer.com/us-en)||
 |[Asus](https://www.asus.com/)||
 |[Dell](https://www.dell.com/en-us/shop/dell-laptops/sc/laptops)||
@@ -26,10 +30,14 @@
 
 ### Apple IOS Based
 
+|Equipement|Description|
+|---|---|
 [Apple](https://www.apple.com/mac/) *Great for developping ios apps. Great ecosystem with other apple devices.*
 
 ### Custom OS based
 
+|Equipement|Description|
+|---|---|
 |[MNT Research](https://mntre.com/)| *Fully customizable computer*|
 |[Framework](https://frame.work/us)| *Light customizable laptop*|
 |[System76](https://system76.com/)| *Custom OS*|
