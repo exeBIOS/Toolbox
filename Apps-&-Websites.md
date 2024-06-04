@@ -36,13 +36,13 @@
 | [Grafana Labs](https://grafana.com/) | *Monitoring and visualization platform*|
 | [Atera](https://www.atera.com/) | *All-in-one IT monitoring and management*|
 | [Zabbix](https://www.zabbix.com/) | *Enterprise-class monitoring solution*|
-| [NinjaOne](https://www.ninjaone.com/) |
-| [Fusion Inventory](https://fusioninventory.org/) |
-| [GLPI](https://glpi-project.org/) |
-| [Zoho]() |
-| [Service Now](https://www.servicenow.com) |
+| [NinjaOne](https://www.ninjaone.com/) | *NinjaOne provides endpoint management and RMM software which allows IT professionals to track any internet-connected device.* |
+| [Fusion Inventory](https://fusioninventory.org/) |*Fusion Inventory allows you to link inventory of related products to each other.*|
+| [GLPI](https://glpi-project.org/) |*GLPI (acronym: French: Gestionnaire Libre de Parc Informatique, or "Free IT Equipment Manager" in English) is an open source IT Asset Management, issue tracking system and service desk system.*|
+| [Zoho](https://www.zoho.com/?zredirect=f&zsrc=langdropdown) |*Zoho is a suite of online applications (services) that you sign up for and access from our Website*|
+| [Service Now](https://www.servicenow.com) |*ServiceNow is a cloud-based workflow automation platform for enterprise organisations.*|
 | [SCCM](https://learn.microsoft.com/en-us/mem/configmgr/core/understand/introduction) | *System Center Configuration Manager* |
-| [Ivanti](https://www.ivanti.com/) |
+| [Ivanti](https://www.ivanti.com/) |*It produces software for IT Security, IT Service Management, IT Asset Management, Unified Endpoint Management, Identity Management and supply chain management.*|
 | [Citrix](https://www.citrix.com/)| *Citrix Virtual Apps and Desktops are virtualization solutions that give IT control of virtual machines, applications, licensing, and security while providing anywhere access for any device* |
 
 ## Network Tools
@@ -69,7 +69,7 @@
 |[PuTTy](https://www.putty.org/)| *SSH and telnet client*|
 |[RustDesk](https://rustdesk.com/)| *Remote desktop software*|
 |[AnyDesk](https://anydesk.com/en)| *Remote access and support software*|
-|[TeamViewer](https://www.teamviewer.com/en/download/windows/)|  |
+|[TeamViewer](https://www.teamviewer.com/en/download/windows/)| *TeamViewer is a remote access and remote control computer software, allowing maintenance of computers and other devices.* |
 
 ## Security Tools
 
@@ -97,12 +97,12 @@
 
 | Tools | Description |
 |:------|:-----------|
-|[OpenCTI](https://docs.opencti.io/latest/)| |
+|[OpenCTI](https://docs.opencti.io/latest/)| *OpenCTI is an open source platform allowing organizations to manage their cyber threat intelligence knowledge and observables.* |
 
 ## Not classified
 
 | Tools | Description |
 |:------|:-----------|
-|[Centreon]()| |
-|[XenOrchestra]()| |
+|[Centreon]()| *Centreon delivers the single source of truth for IT performance, replacing, consolidating and streamlining disconnected tools into one comprehensive platform that provides multiple views and supports multiple performance objectives.* |
+|[XenOrchestra]()| *Xen Orchestra is a web app designed to handle Xenserver administration, management, backup solution, and cloud initiator.* |
 
