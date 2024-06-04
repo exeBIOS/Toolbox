@@ -6,8 +6,8 @@
 
 ## Networking
 
-|Equipement||
-
+|Equipement|Description|
+|---|---|
 |[Cisco](https://www.cisco.com/site/us/en/index.html)| *Popular and largely used networking hardware*|
 |[Fortinet](https://www.fortinet.com/)| *Firewall equipement*|
 |[Netgate](https://www.netgate.com/)| *Firewall equipement powered by pfSense an open source firewall OS*|
