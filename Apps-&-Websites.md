@@ -21,7 +21,7 @@
 | Tools | Description |
 |:------|:-----------|
 [Thunderbird](https://www.thunderbird.net/en-US/)| *Thunderbird is an email client*|
-|[Signal](https://en.wikipedia.org/wiki/Signal_(messaging_app)) [IOS Download](https://apps.apple.com/us/app/signal-private-messenger/id874139669) [Android Download](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en_US)| *Crypted messaging app similar to telegram* |
+|[Signal](https://en.wikipedia.org/wiki/Signal_(messaging_app)) - [IOS Download](https://apps.apple.com/us/app/signal-private-messenger/id874139669) - [Android Download](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en_US)| *Crypted messaging app similar to telegram* |
 ## Github Tools
 
 | Tools | Description |
