@@ -8,6 +8,7 @@
 | A/D      |	Analog-to-Digital |
 |ABC|	Atanasoff Berry Computer
 |ACM|	Association for Computing Machinery
+|AEG|Armoir à eau glacé|
  |AI|	Artificial Intelligence
  ALGOL|	Algorithic Language
  ALU|	Arithmetic Logic Unit
@@ -34,6 +35,7 @@
  CODASYL|	Conference On Data Systems
  CPU|	Central Processing Unit
  CRT|	Cathode Ray Tube
+ CVC| Climatisation Ventilation Chauffage
  D/A|	Digital-to-Analog
  DaaS| Desktop as a Service
  DAT|	Digital Audio Tape
@@ -69,6 +71,7 @@
  FSK	|Frequency Shift Keying
  FTP	|File Transfer Protocol
  GB	|Giga Bytes
+ GF | Groupe Froid
  GFLOPS|	Giga FLOPS
  GHz	|Giga Hertz
  GNU	|Gnu Not Unix
@@ -80,6 +83,7 @@
  HTML	|HyperText Markup Language
  HTTP	|HyperText Transport Protocol
  HTTPS| HyperText Transport Protocol Secure
+ HVAC| Heating Ventilation and Air Conditioning
  IBM	|International Business Machine
  IC	|Integrated Circuit
  IDN	|Integrated Digital Networks
