@@ -60,6 +60,7 @@
 | Tools | Description |
 |:------|:-----------|
 |[Keepass](https://keepass.info/)| *Password manager*|
+|[Passwordmeter](https://passwormeter.com) *Gives you infos on the password you enter*
 
 ## Remote Access/SSH
 
