@@ -81,7 +81,7 @@
 |[Wallix](https://www.wallix.com/) | *Editeur de logiciels de gouvernance des accès et des identités*  |
 |[Rapid7](https://www.rapid7.com/)| *SaaS de Cybersécurité* |
 |[CMOS De-Animator](http://boginjr.com/it/sw/dev/de-cmos3/))
-|[Dislocker]()||
+|[Dislocker](https://www.kali.org/tools/dislocker/)|*Used to write and read on crypted disks*|
 
 ## System Utilities
 
